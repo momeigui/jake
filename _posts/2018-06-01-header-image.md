@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: 带有标题图片格式
 tags: TeXt
 article_header:
   type: cover
@@ -7,6 +7,6 @@ article_header:
     src: /screenshot.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+拥有标题图片
 
 <!--more-->
