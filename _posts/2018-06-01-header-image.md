@@ -4,9 +4,10 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: https://pic.superbed.cn/item/5dde5da38e0e2e3ee9bfc48c.jpg
 ---
 
 拥有标题图片
 
 <!--more-->
+
