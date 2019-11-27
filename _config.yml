@@ -23,7 +23,6 @@ baseurl : # does not include hostname
 title   : AmorSpem
 description: > # this means to ignore newlines until "Language & timezone"
 # Your Site Description
-学习 交流 互联网 设计 3d
 
 ## => Language and Timezone
 ##############################
