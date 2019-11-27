@@ -152,7 +152,7 @@ pageview:
   leancloud:
     app_id    : OAS5kpnQVn2qC5mU7P5fpmNc-gzGzoHsz # LeanCloud App id
     app_key   : 6u0e6naOCYjFS8TyNUFjmHy7 # LeanCloud App key
-    app_class : dianzan # LeanCloud App class
+    app_class : # LeanCloud App class
 
 
 ## => Search
