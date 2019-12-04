@@ -34,7 +34,6 @@ key: page-about
 
 至于为什么不用英文,因为域名被注册了......
 
-<audio id="audio" controls="" preload="none" autoplay="autoplay">
+<audio id="audio" controls="" autoplay="autoplay">
       <source id="mp3" src="http://rl01.sycdn.kuwo.cn/eaf3aeb10bd680572355c483ab5ef6c2/5de78ec9/resource/n1/54/81/331019759.mp3">
 </audio>
-
